@@ -6,14 +6,6 @@
     android:layout_height="match_parent"
     tools:context=".MainActivity">
 
-    <FrameLayout
-        android:id="@+id/fragment_container"
-        android:layout_width="match_parent"
-        android:layout_height="match_parent"
-        app:layout_a="@+id/bottom_navigation"
-        app:layout_constraintEnd_toEndOf="parent"
-        app:layout_constraintHorizontal_bias="0.666"
-        app:layout_constraintStart_toStartOf="parent" />
 
     <com.google.android.material.bottomnavigation.BottomNavigationView
         android:layout_width="0dp"
@@ -26,4 +18,14 @@
         app:layout_constraintStart_toStartOf="parent"
         android:id="@+id/bottom_navigation"
         app:menu="@menu/bottom_n_menu" />
+
+    <FrameLayout
+        android:id="@+id/fragment_container"
+        android:name="com.example.hershsheti.BNB_Fragments.HomeFragment"
+        android:layout_width="399dp"
+        android:layout_height="668dp"
+        app:layout_constraintBottom_toTopOf="@+id/bottom_navigation"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent" />
 </androidx.constraintlayout.widget.ConstraintLayout>
