@@ -9,4 +9,7 @@
     <string name="Bottom_N_par">Par</string>
     <!-- This is bottom navigetion items names close -->
 
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
 </resources>
