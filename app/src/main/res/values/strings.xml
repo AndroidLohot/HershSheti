@@ -2,11 +2,11 @@
     <string name="app_name">Hersh Sheti</string>
 
     <!-- This is bottom navigetion items names start -->
-    <string name="Bottom_N_home">Home</string>
-    <string name="Bottom_N_bajar">Bajar</string>
-    <string name="Bottom_N_andaje">Andaje</string>
-    <string name="Bottom_N_seva_dene_ghene">Seva Dene Ghene</string>
-    <string name="Bottom_N_par">Par</string>
+    <string name="Bottom_N_home">घर</string>
+    <string name="Bottom_N_bajar">बाजार</string>
+    <string name="Bottom_N_andaje">अंदाज</string>
+    <string name="Bottom_N_seva_dene_ghene">सेवा देणे घेणे</string>
+    <string name="Bottom_N_par">पार</string>
     <!-- This is bottom navigetion items names close -->
 
     <!-- TODO: Remove or change this placeholder text -->
