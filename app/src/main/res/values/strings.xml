@@ -17,29 +17,4 @@
     <!-- TODO: Remove or change this placeholder text -->
     <string name="hello_blank_fragment">Hello blank fragment</string>
 
-    <!-- This is spinner choices start -->
-
-    <string-array name="item_choise">
-        <item>पर्याय निवडा</item>
-    <!-- This is spinner (Kaddhanya) choices start -->
-        <item>गहू</item>
-        <item>बाजरी</item>
-        <item>ज्वारी</item>
-    <!-- This is spinner (Kaddhanya) choices close -->
-
-    <!-- This is spinner (Palevhaji) choices start -->
-        <item>मेथी</item>
-        <item>कोथांबीर</item>
-        <item>फ्लावर</item>
-    <!-- This is spinner (Palevhaji) choices close -->
-
-    <!-- This is spinner (Phale) choices start -->
-        <item>आंबा</item>
-        <item>केली</item>
-        <item>चिकू</item>
-    <!-- This is spinner (Phale) choices close -->
-    </string-array>
-
-    <!-- This is spinner choices close -->
-
 </resources>
